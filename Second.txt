@@ -2,3 +2,4 @@ Hello,
 Important commands to use Git.
 
 Delted
+added new text to cehk the data
